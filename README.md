@@ -23,15 +23,27 @@ Bluetooth Library
 # Instructions
 
 **1. Follow these instructions** </br>
-![ProteusSimulationBluetoothInstruction1](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/1.png =250x)
+![ProteusSimulationBluetoothInstruction1](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/1.png)
+</br>
 ![ProteusSimulationBluetoothInstruction2](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/2.png)
+</br>
 ![ProteusSimulationBluetoothInstruction3](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/3.png)
+</br>
 ![ProteusSimulationBluetoothInstruction4](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/4.png)
+</br>
 ![ProteusSimulationBluetoothInstruction5](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/5.png)
+</br>
 ![ProteusSimulationBluetoothInstruction6](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/6.png)
+</br>
 ![ProteusSimulationBluetoothInstruction7](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/7.png)
+</br>
 ![ProteusSimulationBluetoothInstruction8](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/8.png)
+</br>
 ![ProteusSimulationBluetoothInstruction9](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/9.png)
+</br>
 ![ProteusSimulationBluetoothInstruction10](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/10.png)
+</br>
 ![ProteusSimulationBluetoothInstruction11](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/11.png)
+</br>
 ![ProteusSimulationBluetoothInstruction12](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/12.png)
+</br>
