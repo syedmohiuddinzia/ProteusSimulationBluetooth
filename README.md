@@ -18,13 +18,13 @@ Bluetooth Library
 
 # Schematic
 
-![ProteusSimulationBluetooth](https://github.com/syedmohiuddinzia/RemoteIR/blob/main/RemoteIR.png)
+![ProteusSimulationBluetooth](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/ProteusSimulationBluetoothSchematic.PNG)
 
 # Instructions
 
 **1. Follow these instructions** </br>
-![ProteusSimulationBluetoothInstruction1](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/1.png =x250)
-![ProteusSimulationBluetoothInstruction2](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/2.png =x250)
+![ProteusSimulationBluetoothInstruction1](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/1.png =250x)
+![ProteusSimulationBluetoothInstruction2](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/2.png)
 ![ProteusSimulationBluetoothInstruction3](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/3.png)
 ![ProteusSimulationBluetoothInstruction4](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/4.png)
 ![ProteusSimulationBluetoothInstruction5](https://github.com/syedmohiuddinzia/ProteusSimulationBluetooth/blob/main/BluetoothConnectionInstructions/5.png)
